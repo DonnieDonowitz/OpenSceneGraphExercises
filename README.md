@@ -1,0 +1,2 @@
+# OpenSceneGraphExercises
+Simple OpenSceneGraph exercises
